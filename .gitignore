@@ -3,7 +3,7 @@ automatic_peak_integration/inputs/train_files/*.xlsx
 automatic_peak_integration/outputs/figures/*.svg
 automatic_peak_integration/outputs/figures/*.png
 automatic_peak_integration/outputs/*.csv
-
+automatic_peak_integration/models/*
 
 # jupyter
 MANIFEST
