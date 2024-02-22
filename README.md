@@ -1,4 +1,4 @@
-# Peak integration powered by deep learning
+# Peak integration using deep learning
 
 ## About
 Single chromatographic peaks are extracted using convolutional neural networks; variances of the peaks can then be calcualted, and subsequently used to estimate protein diffusion coefficients.
